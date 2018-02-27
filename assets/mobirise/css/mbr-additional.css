@@ -593,6 +593,33 @@ h6,
 #msg-box3-y p {
   color: #000;
 }
+#contacts5-13 p,
+#contacts5-13 .list-group-text,
+#contacts5-13 .form-control-label {
+  color: #000;
+}
+#contacts5-13 strong,
+#contacts5-13 h4 {
+  color: #7e9b9f;
+}
+#contacts5-13 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-13 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-13 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-13 P {
+  text-align: center;
+}
+#footer1-g P {
+  color: #000000;
+  text-align: center;
+  font-size: 14px;
+}
 
 
 #ext_menu-7 .hide-buttons .nav-btn {
@@ -658,6 +685,18 @@ h6,
 #ext_menu-7 .link[aria-expanded="true"],
 #ext_menu-7 .dropdown-item[aria-expanded="true"] {
   color: #553982!important;
+}
+#social-buttons3-1d .mbr-section-title,
+#social-buttons3-1d .btn-social {
+  color: #fff;
+}
+#footer1-g P {
+  color: #000000;
+  text-align: center;
+  font-size: 14px;
+}
+#features1-1g .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
 }
 
 
