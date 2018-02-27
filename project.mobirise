@@ -43,7 +43,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -367,7 +367,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "",
         "title": "Eliquids",
         "order": 2
       },
@@ -462,7 +462,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "Premium Juices",
         "order": 1
       },
@@ -757,7 +757,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "",
         "title": "Hardwear",
         "order": 3
       },
@@ -852,7 +852,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "",
         "title": "Tanks",
         "order": 4
       },
@@ -1121,7 +1121,7 @@
     },
     "page5.html": {
       "settings": {
-        "meta_descr": "Web Site Creator Description",
+        "meta_descr": "",
         "title": "Contact Us",
         "order": 5
       },
@@ -1375,7 +1375,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "About us page for Vapin'n Valpo",
         "title": "About Us",
         "order": 6
       },
