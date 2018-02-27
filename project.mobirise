@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vapin'n Valpo",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1558,7 +1558,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vaporesso-nrg-tank-atomizer-for-eliquids-5ml-large-480x480.jpg",
+              "src": "@PROJECT_PATH@/assets/images/smok-tfv8-big-baby-tank-light-edition-1-1024x1024-6fa60141-a51e-4589-8dd6-f9a9fe43fc5b-800x-1-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1569,7 +1569,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vape-tanks-smok-tfv8-sub-ohm-tank-1-1024x1024-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vape-tanks-smok-tfv8-sub-ohm-tank-1-1024x1024-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1605,17 +1605,17 @@
               "active": true
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
+          "title1": "<p>Tank 1&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+          "subtitle1": "text",
           "caption1": "Filler Text",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "title2": "Tank 2",
+          "subtitle2": "text",
           "caption2": "Text",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "title3": "Tank 3",
+          "subtitle3": "text",
           "caption3": "Text",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "title4": "Tank 4",
+          "subtitle4": "text",
           "caption4": "Text",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
