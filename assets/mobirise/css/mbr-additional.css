@@ -525,72 +525,6 @@ h6,
 }
 
 
-#ext_menu-5 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-5 .navbar-caption {
-  color: #ffffff;
-  font-size: 20px;
-  font-family: 'PT Sans', sans-serif;
-}
-#ext_menu-5 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-5 .close-icon::before,
-#ext_menu-5 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-5 .link,
-#ext_menu-5 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-5 .link {
-  font-size: 0.85rem;
-}
-#ext_menu-5 .dropdown-item,
-#ext_menu-5 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#ext_menu-5 .link:hover,
-#ext_menu-5 .dropdown-item:hover,
-#ext_menu-5 .link:focus,
-#ext_menu-5 .dropdown-item:focus {
-  color: #553982;
-}
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-5 .nav-dropdown-sm .link:focus,
-#ext_menu-5 .nav-dropdown-sm .link:hover,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-5 .navbar,
-#ext_menu-5 .nav-dropdown-sm,
-#ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-5 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-5 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-5 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-5 .bg-color.transparent.opened .link:hover,
-#ext_menu-5 .bg-color.transparent.opened .link:focus {
-  color: #553982;
-}
-#ext_menu-5 .link[aria-expanded="true"],
-#ext_menu-5 .dropdown-item[aria-expanded="true"] {
-  color: #553982!important;
-}
-
-
 #ext_menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -791,6 +725,33 @@ h6,
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #553982!important;
 }
+#footer1-g P {
+  color: #000000;
+  text-align: center;
+  font-size: 14px;
+}
+#contacts5-13 p,
+#contacts5-13 .list-group-text,
+#contacts5-13 .form-control-label {
+  color: #000;
+}
+#contacts5-13 strong,
+#contacts5-13 h4 {
+  color: #7e9b9f;
+}
+#contacts5-13 form .form-control {
+  border-color: rgba(0, 0, 0, 0.2);
+  color: #565656;
+}
+#contacts5-13 .mbr-footer-content li {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+}
+#contacts5-13 .mbr-company .list-group-text::after {
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+}
+#contacts5-13 P {
+  text-align: center;
+}
 
 
 
@@ -876,6 +837,11 @@ h6,
 #contacts1-j P {
   color: #000000;
 }
+#footer1-g P {
+  color: #000000;
+  text-align: center;
+  font-size: 14px;
+}
 
 
 #ext_menu-a .hide-buttons .nav-btn {
@@ -948,13 +914,6 @@ h6,
 }
 #content2-u DIV {
   text-align: center;
-}
-#features7-p .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-p .iconbox {
-  background-color: #553982;
-  border-color: #553982;
 }
 #footer1-g P {
   color: #000000;
